@@ -1,2 +1,2 @@
 # Cheat-Game-and-AI
-A python script to emulate a 2 player version of the card game Cheat, as well as a Cheat AI
+A python script to emulate a 2 player version of the card game Cheat, as well as a Cheat AI. The base game follows the rules outlined [here](https://en.wikipedia.org/wiki/Cheat_(game)) and is found in the game.py file. It is set up for 2 players and has a fairly basic terminal text based UI. The cards.py file contains the classes used to represent the deck and cards. The AI version of the game is found aigame.py file. The AI considers things such as which cards it is most likley to need, which cards it thinks you have, as well as the cards in the pile to determine the truthfulness of the opposing player
